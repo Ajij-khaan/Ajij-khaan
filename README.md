@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajij Khan</h1>
-<h3 align="center">A passionate QA tester from Bangladesh</h3>
+<h3 align="center">A passionate QA tester from Canada</h3>
 
 - 🌱 I’m currently learning **Web Automation**
 
